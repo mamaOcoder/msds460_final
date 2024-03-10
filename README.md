@@ -10,6 +10,12 @@ In this term project, our aim was to develop a discrete event simulation focusin
 ## Literature Review
 
 ## Algorithms and Modeling Methods
+
+<p align="center">
+  <img src="https://github.com/mamaOcoder/msds460_final/blob/main/event_graph.png" alt="Event Graph"/>
+</p>
+
+
 The discrete-event simulation model employed in our study mimics the complex behavior of players as they interact with the gaming queue. This model operates on a time-stepped approach, with events processed sequentially to replicate the real-world dynamics of a gaming environment.
 
 The simulation begins with the Login Event, where player arrivals are modeled using an exponential distribution with a mean “t<sub>L</sub>”. Each player is created with specific patience and tolerance attributes, which are derived from predefined normal distributions. As the simulation progresses, the Queue Evaluation step determines whether the current queue length exceeds the individual player's tolerance level, prompting a decision to either balk or join the queue.
