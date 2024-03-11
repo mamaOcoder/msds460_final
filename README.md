@@ -37,8 +37,6 @@ The performance of the gaming system is evaluated using several metrics. The Ave
 ![image](https://github.com/mamaOcoder/msds460_final/assets/141500817/186d8eac-ea49-4c6c-980a-15717ec97b69)
 
 
-![image](https://github.com/mamaOcoder/msds460_final/assets/141500817/2764b12d-3bc9-489c-961c-af986bcb4651)
-
 
 ## Management Recommendations
 
