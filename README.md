@@ -9,6 +9,13 @@ In this term project, our aim was to develop a discrete event simulation focusin
 
 ## Literature Review
 
+
+A study conducted by Quanjiang Yu that looks into Optimal Preventive Maintenance Scheduling for Wind Turbines under Condition Monitoring demonstrates the utilization of life-cycle simulations in the context of wind turbine maintenance optimization. By applying a model to a wind farm comprising 50 turbines, Quanjiang Yu simulated the performance and failure times of these turbines over their operational lifetime. This simulation provides insights into the effectiveness of different maintenance strategies over the entire life cycle of these wind turbines.
+Through the simulation,YU assesses the impact of employing a proposed algorithm for maintenance scheduling compared to a pure condition monitoring strategy. The simulation results show that the proposed algorithm reduces average maintenance costs by 23.71% over the wind turbines' lifetime, highlighting the potential cost savings and efficiency improvements achievable through optimized maintenance strategies.
+This case study from Yu demonstrates the practical uses of life-cycle simulations to evaluate maintenance strategies and optimize decision-making processes. By simulating the performance and maintenance needs of wind turbines over time, Yu was able to assess the long-term implications of different maintenance approaches and make informed decisions to enhance reliability, efficiency, and cost-effectiveness over the entire life cycle of the assets. This shows the practicality of life-cycle simulations as a whole. If businesses are able to harness the power of this tool then they can apply these principles to almost any business or product out there which shows the wide potential of these simulations. 
+
+Yu, Quanjiang, Pramod Bangalore, Sara Fogelström, and Serik Sagitov. 2024. "Optimal Preventive Maintenance Scheduling for Wind Turbines under Condition Monitoring" Energies 17, no. 2: 280. https://doi.org/10.3390/en17020280
+
 ## Algorithms and Modeling Methods
 
 <p align="center">
@@ -27,3 +34,10 @@ The performance of the gaming system is evaluated using several metrics. The Ave
 ## Results
 
 ## Management Recommendations
+
+- Here are the potential questions we perceived management would ask us: Are there opportunities to optimize server resources and allocate capacity more efficiently?
+- How transparent is the queueing process to gamers, and what steps are taken to ensure fairness and equity?
+For the first question, we would recommend Implementing dynamic resource allocation techniques that can help adjust server capacity based on fluctuating demand patterns. By dynamically scaling server resources up or down in response to changes in queue lengths or gameplay activity, you would be able to optimize resource allocation which would make sure that gameplay stays at its peak level. 
+Another solution could be to utilize load balancing algorithms that can distribute incoming gaming sessions across multiple servers. If the company was able to spread things out across multiple servers it would increase capacity, minimize latency, and ensure server resources are utilized evenly. 
+For the second question we would recommend having regular updates on queue status, such as current queue length, expected wait times, and any changes in server availability. This would provide gamers with info in real-time which is very important. It allows gamers to make decisions with the utmost information on the current situation which is very beneficial for companies who do not want poor reviews..
+Also, we would suggestImplementing fair queueing policies that ensure all gamers have an equal opportunity to access gaming servers. Queueing policies should be transparently communicated to gamers and enforced consistently to prevent queue jumping or unfair access to the server. This would increase the trust gamers have for the company as well as increase the efficiency of the queue process because people would not just wait in the queue with hope but instead be informed and be able to clear the queue in a timely manner.
