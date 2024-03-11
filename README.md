@@ -33,6 +33,7 @@ Our modeling techniques incorporate a variety of statistical distributions to ac
 The performance of the gaming system is evaluated using several metrics. The Average Wait Time “t<sub>W</sub>”  is a critical indicator of user satisfaction and measures the effectiveness of the queuing system. Other metrics include the Balking Rate, the Reneging Rate, the Utilization Rate, and the Throughput. These metrics provide a comprehensive view of system performance from both the user experience and operational efficiency perspectives.
 ## Results
 
+As shown in the graphs below, we initially observe gamers successfully logging onto the game and joining gaming sessions to begin playing. However, as the game session continues, we notice the queue for the gaming session beginning to build up and become very large. As the queue grows larger and larger, people start to balk and leave the queue before ever making it into the gaming session. Because people begin to leave the queue and the queue time does not shorten, we see the number of players making it into the gaming session decrease over time. Eventually, we arrive at a point where only one person is in the gaming session because the queue has become so long, and people are logging off before they can enter the game. This situation underscores the need for the company to find better ways to manage their queues and onboard gamers onto the gaming servers more efficiently.
 
 ![image](https://github.com/mamaOcoder/msds460_final/assets/141500817/186d8eac-ea49-4c6c-980a-15717ec97b69)
 
