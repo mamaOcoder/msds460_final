@@ -33,6 +33,13 @@ Our modeling techniques incorporate a variety of statistical distributions to ac
 The performance of the gaming system is evaluated using several metrics. The Average Wait Time “t<sub>W</sub>”  is a critical indicator of user satisfaction and measures the effectiveness of the queuing system. Other metrics include the Balking Rate, the Reneging Rate, the Utilization Rate, and the Throughput. These metrics provide a comprehensive view of system performance from both the user experience and operational efficiency perspectives.
 ## Results
 
+
+![image](https://github.com/mamaOcoder/msds460_final/assets/141500817/186d8eac-ea49-4c6c-980a-15717ec97b69)
+
+
+![image](https://github.com/mamaOcoder/msds460_final/assets/141500817/2764b12d-3bc9-489c-961c-af986bcb4651)
+
+
 ## Management Recommendations
 
 - Here are the potential questions we perceived management would ask us: Are there opportunities to optimize server resources and allocate capacity more efficiently?
